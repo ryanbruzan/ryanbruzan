@@ -5,6 +5,6 @@
 ___
 
 - 🔭 **I’m currently working on** a food platform providing affordable, weekly meals prepared by local chefs.  [Learn more &rarr;](https://www.mealbrowse.com)</p>
-- 🌱 **I’m currently learning** Vue and Laravel in existing projects, and how to effectively implement them into new projects in the future.
+- 🌱 **I’m currently learning** Vue 2, and how to effectively implement it into new projects in the future.
 - 💬 **Ask me about** any projects you may be interested in - past, present, or future.
 - 📫 **Reach me by** shooting me an email to <contact@snazzii.com>
