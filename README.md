@@ -2,7 +2,7 @@
   Hi there, I'm Ryan.
 </h1>
 <p align="center">
-  I'm an experienced developer build some neat stuff with awesome people.
+  I'm an experienced developer building neat stuff with awesome people.
 </p>
 
 <!--
