@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there, I'm Ryan.
+</h1>
+<p align="center">
+  I'm an experienced developer build some neat stuff with awesome people.
+</p>
 
 <!--
 **ryanbruzan/ryanbruzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
