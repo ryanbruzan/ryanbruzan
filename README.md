@@ -1,4 +1,4 @@
-<h3>:man_technologist: &nbsp; Hi there, I'm Ryan.</h3>
+<h2>:man_technologist: &nbsp; Hi there, I'm Ryan.</h2>
 <p><strong>I'm an experienced developer building neat stuff with awesome people.</strong>  Most of my stuff is private, but in my free time I build robust, reusable code snippets and plugins that are free for all.</p>
 <p>:white_check_mark: &nbsp; <strong>I’m currently working on</strong> a food platform providing affordable, weekly meals prepared by local chefs.  <a href="https://www.mealbrowse.com">Try it out &rarr;</a></p>
 <p>:computer: &nbsp; <strong>I’m currently learning</strong> Vue.js and how to effectively implement it into new projects in the future.</p>
