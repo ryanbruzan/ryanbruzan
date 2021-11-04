@@ -1,4 +1,4 @@
-<h2>:man_technologist: &nbsp; Hi there, I'm Ryan.</h2>
+<h2>:man_technologist: &nbsp; Hi there, I'm Ryan</h2>
 <p>I'm an experienced developer building neat stuff with awesome people.  Most of my stuff is private, but in my free time I build robust, reusable tools and plugins that are free for all.  Forks are always welcome!</p>
 <p>:briefcase: &nbsp; <strong>I’m employed</strong> at Macy's Systems and Technology as a Software Engineer</p>
 <p>:computer: &nbsp; <strong>I’m learning</strong> Vue.js and how to effectively implement it into new projects in the future</p>
