@@ -4,4 +4,4 @@
 <p>:bulb: &nbsp; <strong>I’m learning</strong> Vue 3 and Vuex to effectively implement into new projects in the future</p>
 <p>:test_tube: &nbsp; <strong>I’m building</strong> a robust chore-sharing app to help you get stuff done <a href="https://www.trychap.com">called Chap &rarr;</a></p>
 <p>:email: &nbsp; <strong>Reach me</strong> by shooting an email to <a href="mailto:contact@snazzii.com">contact@snazzii.com &rarr;</a></p>
-<p>:computer: &nbsp; <strong>See my work</strong> by heading to <a href="https://www.snazzii.com/work">snazzii.com &rarr;</a></p>
+<p>:computer: &nbsp; <strong>See my work</strong> by heading to <a href="https://www.snazzii.com">snazzii.com &rarr;</a></p>
