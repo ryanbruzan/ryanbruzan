@@ -1,5 +1,5 @@
-<h1>:man_technologist: &nbsp; Hi there, I'm Ryan</h1>
-<p>I'm an experienced full-stack web developer building neat stuff with awesome people from around the world.</p>
+<h1>Hi there, I'm Ryan</h1>
+<p>I'm a <strong>full stack web developer</strong> with over 13 years of experience building powerful products with awesome people.  Utilizing a strong passion of flawless design and seamless functionality, I build rich and engaging experiences from the ground up.</p>
 <p>:briefcase: &nbsp; <strong>I’m employed</strong> as a Software Engineer with Macy's Systems and Technology</p>
 <p>:bulb: &nbsp; <strong>I’m learning</strong> Vue 3 and Vuex to effectively implement into new projects in the future</p>
 <p>:test_tube: &nbsp; <strong>I’m building</strong> a robust chore-sharing app <a href="https://www.trychap.com">called Chap</a> to help you get stuff done</p>
