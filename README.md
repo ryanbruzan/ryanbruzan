@@ -2,7 +2,7 @@
 
 I'm Ryan, a Senior Software Engineer.
 
-With over 10 years of industry experience, my specialty lies in crafting exceptional products that seamlessly blend elegant design with powerful functionality. I have a knack for starting from scratch, conceptualizing and building applications from the ground up.
+With over 10 years of industry experience, I craft exceptional products that blend elegant design with powerful functionality. I have a knack for starting from scratch, conceptualizing and building applications from the ground up.
 
 :briefcase: &nbsp; I’m employed as a Senior Software Engineer at [VSCO&reg; &rarr;](https://www.vsco.co)
 
