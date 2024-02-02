@@ -1,8 +1,6 @@
 ### Hi there!
 
-I'm Ryan, a Senior Software Engineer.
-
-With over 10 years of industry experience, I craft products that blend elegant design with powerful functionality. My expertise leads the entire product journey, from user research and product design, to backend database architecture, API development, and frontend UI engineering.
+I'm Ryan, a Senior Software Engineer who crafts elegant web and mobile apps.
 
 :briefcase: &nbsp; I’m employed as a Senior Software Engineer at [VSCO&reg; &rarr;](https://www.vsco.co)
 
