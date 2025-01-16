@@ -2,7 +2,7 @@
 
 I'm Ryan, a software engineer who crafts elegant websites, web apps, and mobile apps.
 
-:briefcase: &nbsp; I’m employed as a Senior Software Engineer II at [VSCO&reg;](https://www.vsco.co)
+:briefcase: &nbsp; I’m employed as a Senior Software Engineer II at [VSCO](https://www.vsco.co)
 
 :hammer_and_wrench: &nbsp; In my free time, I’m building an exercise app called [Lazy Bear](https://www.lazybearapp.com)
 
