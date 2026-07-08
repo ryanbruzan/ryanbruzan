@@ -5,7 +5,7 @@ I'm a Software Engineer and startup co-founder with a deep passion for crafting 
 ### 💼 &nbsp; What I'm Up To
 
 - I'm a Senior Software Engineer II at [VSCO](https://www.vsco.co)
-- Outside of work, I'm a co-founder at [Remedy](https://www.remedy.product)
+- Outside of work, I'm a co-founder at [Remedy](https://www.startremedy.com) and [Snazzii](https://www.snazzii.com)
 - Check out some of my apps, like [Chap](https://www.trychap.com) and [LogCycle](https://www.logcycle.com)
 
 ### 📬 Connect With Me
