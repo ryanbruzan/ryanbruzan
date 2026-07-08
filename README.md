@@ -1,9 +1,14 @@
-### Hi there! :wave:
+### 👋 &nbsp; Hi there! I'm Ryan
 
-I'm Ryan, a software engineer who crafts elegant websites, web apps, and mobile apps.
+I'm a Software Engineer and startup co-founder with a deep passion for crafting elegant, high-performance web and mobile applications. From architecting scalable backend systems to designing intuitive user experiences, I love building digital products from the ground up.
 
-:briefcase: &nbsp; I’m employed as a Senior Software Engineer II at [VSCO](https://www.vsco.co)
+### 💼 &nbsp; What I'm Up To
 
-:hammer_and_wrench: &nbsp; In my free time, I’m building an exercise app called [Lazy Bear](https://www.lazybearapp.com)
+- I'm a Senior Software Engineer II at [VSCO](https://www.vsco.co)
+- Outside of work, I'm a co-founder at [Remedy](https://www.remedy.product)
+- Check out some of my apps, like [Chap](https://www.trychap.com) and [LogCycle](https://www.logcycle.com)
 
-:iphone: &nbsp; Check out other apps I've built, like [Chap](https://www.trychap.com) and [Orbt](https://www.orbtapp.com)
+### 📬 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ryan-bruzan-bb308679/
+- Portfolio: https://www.snazzii.com/
